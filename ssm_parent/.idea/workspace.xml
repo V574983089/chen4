@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1f2d6a0-a54d-47a0-b302-8762e3261b57" name="Default Changelist" comment="" />
+    <list default="true" id="a1f2d6a0-a54d-47a0-b302-8762e3261b57" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaee-dev95" beforeDir="false" afterPath="$PROJECT_DIR$/../javaee-dev95" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/ssm_model/target/" />
@@ -23,7 +27,8 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.52" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -62,38 +67,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_web/src/main/java/com/itheima/controller/ItemController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ssm_model/src/main/java/com/itheima/pojo/Items.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ssm_web/src/main/webapp/WEB-INF/pages/items.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,6 +81,9 @@
     <findStrings>
       <find>springframework</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -172,7 +149,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="272" />
     <option name="y" value="287" />
     <option name="width" value="1194" />
@@ -216,6 +193,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="true" />
@@ -223,6 +201,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,249 +209,19 @@
               <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ssm_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593851479988" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593939648418" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -621,6 +370,7 @@
       <workItem from="1593783398344" duration="9376000" />
       <workItem from="1593829325255" duration="2995000" />
       <workItem from="1593873331445" duration="117000" />
+      <workItem from="1593909491754" duration="1242000" />
     </task>
     <servers />
   </component>
@@ -639,12 +389,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16182000" />
+    <option name="totallyTimeSpent" value="17424000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="272" y="287" width="1194" height="688" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24426807" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24810892" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -664,7 +414,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="JRebel Executor" order="12" />
       <window_info anchor="bottom" id="JRebel Console" order="13" sideWeight="0.50075644" side_tool="true" weight="0.42517006" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
@@ -826,13 +576,10 @@
     <entry file="file://$PROJECT_DIR$/ssm_web/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_web/src/main/java/com/itheima/controller/ItemController.java">
+    <entry file="file://$PROJECT_DIR$/ssm_web/src/main/webapp/WEB-INF/pages/items.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="22">
+          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -843,10 +590,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ssm_web/src/main/webapp/WEB-INF/pages/items.jsp">
+    <entry file="file://$PROJECT_DIR$/ssm_web/src/main/java/com/itheima/controller/ItemController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        <state relative-caret-position="209">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
